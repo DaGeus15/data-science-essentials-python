@@ -58,4 +58,4 @@ Visual Capitalist, Smithsonian Global Volcanism Program, Gapminder, NHANES, *JAM
 
 ---
 
-**Daylé García Fernández** · [Portfolio](https://dageus15.github.io/en/) · [LinkedIn](https://www.linkedin.com/in/dayle-garcia/) · [GitHub](https://github.com/DaGeus15)
+**Daylé García Fernández** · [Portfolio](https://dayle.dev/en/) · [LinkedIn](https://www.linkedin.com/in/dayle-garcia/) · [GitHub](https://github.com/DaGeus15)

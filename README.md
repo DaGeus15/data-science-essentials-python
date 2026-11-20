@@ -58,4 +58,4 @@ original: Visual Capitalist, Smithsonian Global Volcanism Program, Gapminder, NH
 
 ---
 
-**Daylé García Fernández** · [Portafolio](https://dageus15.github.io/es/) · [LinkedIn](https://www.linkedin.com/in/dayle-garcia/) · [GitHub](https://github.com/DaGeus15)
+**Daylé García Fernández** · [Portafolio](https://dayle.dev/es/) · [LinkedIn](https://www.linkedin.com/in/dayle-garcia/) · [GitHub](https://github.com/DaGeus15)
